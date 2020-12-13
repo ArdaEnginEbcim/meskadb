@@ -15,7 +15,7 @@ yarn add meskadb
 # How To Use?
 ## NodeJs
 ```javascript
-const meskaDB = require('v30db');
+const meskaDB = require('meskadb');
 const db = new meskaDB({
   name?: 'database', // default db
   language?: 'en_US', // default en-US
