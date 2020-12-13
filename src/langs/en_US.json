@@ -1,0 +1,18 @@
+{
+  "errors": {
+    "keyBlankOrUndefined": "No key was given or key was undefined.",
+    "valueBlankOrUndefined": "No value was given or value was undefined.",
+    "valueMustBeAll": "Value must be String, Number, Object, Array or Boolean.",
+    "valueMustBeFunc": "Value must be Function.",
+    "valueMustBeNumber": "Value must be Number.",
+    "useAddInsteadSubs": "Use meskaDB#add instead meskaDB#substract.",
+    "dataMustBeArray": "Data must be Array.",
+    "indexBlankOrUndefined": "No index was given or index was undefined.",
+    "indexMustBeNumber": "Index must be Number.",
+    "oldValNotFound": "The data you wrote to the oldValue parameter in the Array was not found.",
+    "yamlNotFound": "To use YamlDB, you must install the yaml module."
+  },
+  "warns": {
+    "useGetInsteadFetch": "Use meskaDB#get instead meskaDB#fetch."
+  }
+}
