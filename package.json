@@ -1,0 +1,33 @@
+{
+  "name": "meskadb",
+  "version": "0.0.1",
+  "description": "Fast and simple database handler for NodeJS.",
+  "main": "src/meska.js",
+  "license": "MIT",
+  "author": {
+    "name": "Arda Engin Ebcim",
+    "email": "ardaengnebcim@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdaEnginEbcim/meskadb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArdaEnginEbcim/meskadb/issues"
+  },
+  "homepage": "https://github.com/ArdaEnginEbcim/meskadb#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "prettier": "^2.2.1"
+  },
+  "keywords": [
+    "meska",
+    "meskaDB",
+    "yaml",
+    "json",
+    "database",
+    "jsondb",
+    "yamldb",
+    "db"
+  ]
+}
