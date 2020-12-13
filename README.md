@@ -1,7 +1,7 @@
 [![VERSION](https://img.shields.io/npm/v/meskadb?color=%23CC3534&label=Version&logo=npm)](https://www.npmjs.org/package/meskadb) 
 [![DOWNLOAD](https://img.shields.io/npm/dt/meskadb?color=%23CC3534&label=Dowload&logo=npm)](https://www.npmjs.org/package/meskadb) 
 [![LICENSE](https://img.shields.io/npm/l/meskadb?color=%23CC3534&label=License&logo=npm)](https://www.npmjs.org/package/meskadb)  
-[![DISCORD](https://img.shields.io/discord/617925960016068611?color=%237289d9&label=Client%20Code&logo=discord&logoColor=white)](https://discord.gg/RsYDySK2pq)  
+[![DISCORD](https://img.shields.io/discord/617925960016068611?color=%237289d9&label=Meska&logo=discord&logoColor=white)](https://discord.gg/RsYDySK2pq)  
 #
 # meskadb
 # How To Install?
