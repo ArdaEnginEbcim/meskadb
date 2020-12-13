@@ -1,0 +1,18 @@
+{
+  "errors": {
+    "keyBlankOrUndefined": "Herhangi bir anahtar girilmedi ya da anahtar undefined.",
+    "valueBlankOrUndefined": "Herhangi bir değer girilmedi ya da değer undefined.",
+    "valueMustBeAll": "Değer sadece String, Number, Object, Array ya da Boolean olabilir.",
+    "valueMustBeFunc": "Değer Fonksiyon olmalı.",
+    "valueMustBeNumber": "Değer Sayı olmalı.",
+    "useAddInsteadSubs": "meskaDB#substract yerine meskaDB#add kullan.",
+    "dataMustBeArray": "Veri Array olmalı.",
+    "indexBlankOrUndefined": "Herhangi bir index girilmedi ya da değeri undefined.",
+    "indexMustBeNumber": "İndex Sayı olmalı.",
+    "oldValNotFound": "Eski değer parametresine yazdığın değer Array içerisinde bulunamadı.",
+    "yamlNotFound": "YamlDB kullanmak için yaml modülünü kurmalısın."
+  },
+  "warns": {
+    "useGetInsteadFetch": "meskaDB#fetch yerine meskaDB#get kullan."
+  }
+}
